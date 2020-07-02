@@ -1,4 +1,4 @@
-![image](https://chimera-project.github.io/chimera-website/assets/images/logo-with-dna.svg)
+![image](https://chimeraproject.io/img/logo.png)
 
 Forked from Oscillate (https://github.com/oscillate-coin/oscillate)
 
