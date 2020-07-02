@@ -1,6 +1,6 @@
 ![image](https://chimera-project.github.io/chimera-website/assets/images/logo-with-dna.svg)
 
-
+Forked from Oscillate (https://github.com/oscillate-coin/oscillate)
 
 To mine Chimera follow the instructions below.
 
